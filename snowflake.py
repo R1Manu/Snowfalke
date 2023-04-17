@@ -1,2 +1,2 @@
-import snowflake
-snowflake.title('My parents new healthy diner')
+import Snowflake
+Snowflake.title('My parents new healthy diner')

@@ -1,6 +1,6 @@
-import snowflake
+import streamlit
 
-snowflake.title('Breakfast Favourites')
+streamlit.title('Breakfast Favourites')
 streamlit.header('Breakfast Menu')
 streamlit.text('🥣 Omega 3 & Blueberry Oatmeal')
 streamlit.text('🥗 Kale, Spinach & Rocket Smoothie')
